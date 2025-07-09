@@ -36,8 +36,20 @@ Count and log blink events
 Deploy to Streamlit Cloud
 Improve UI/UX with styling options
 
+## 📬 **Contact**
+
+* **Email**: [parshant786yadav@gmail.com](mailto:parshant786yadav@gmail.com)
+* **Phone**: +91 8826448907
+* **Location**: Gurgaon, India
+
+### 📱 **Connect:**
+
+* [GitHub](https://github.com/parshant786yadav)
+* [LinkedIn](https://www.linkedin.com/in/parshant786)
+* [Instagram](https://www.instagram.com/its_yduvnshi)
+* [WhatsApp](http://wa.me/+918826448907)
+
 **🙋‍♂️ Author**
 
-Parshant Yadav
-GitHub • LinkedIn
+Parshant Yadav 😎
 
